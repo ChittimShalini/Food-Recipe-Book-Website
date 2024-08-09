@@ -1,2 +1,2 @@
 # Myrecipe-book
-Basically this myrecipe book repository includes all related files to design recipe book and hope it helps.
+A basic recipe book for users that guides them in making tasty recipes.
